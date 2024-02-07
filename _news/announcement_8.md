@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2022-12-9 00:00:00-0400
+inline: true
+---
+
+Sung gives a talk at the Symposium of Young Asian Biological Engineers' Community.
