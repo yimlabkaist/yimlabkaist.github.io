@@ -7,6 +7,14 @@ nav: true
 social: false
 ---
 
+---
+layout: page
+title: news
+permalink: /news/
+nav: true
+nav_order: 5
+---
+
 <div class="news">
   
   {% if site.news != blank -%} 
