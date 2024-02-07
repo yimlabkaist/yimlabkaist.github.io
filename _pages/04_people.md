@@ -2,11 +2,9 @@
 layout: page
 title: people
 permalink: /people/
-order: 4
 description: we are always seeking highly motivated and talented colleagues to join us!
 nav: true
-display_categories: 
-horizontal: false
+nav_order: 4
 ---
 
 <table cellspacing="0" cellpadding="0">
