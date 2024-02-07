@@ -1,10 +1,9 @@
 ---
 layout: page
 title: research
-permalink: /research/
+permalink: /research
 description: towards programmable microbial ecosystems
-nav: true
-nav_order: 2
+order: 2
 display_categories: 
 horizontal: false
 ---
