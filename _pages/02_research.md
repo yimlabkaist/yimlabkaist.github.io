@@ -3,9 +3,8 @@ layout: page
 title: research
 permalink: /research
 description: towards programmable microbial ecosystems
-order: 2
-display_categories: 
-horizontal: false
+nav: true
+nav_order: 2
 ---
 
 Microbes rarely exist in isolation, but form intricate multi-species microbial communities, participating in a variety of biogeochemical processes. Recent advances in DNA sequencing have substantially improved our ability to quantify composition, function, and dynamics of microbial communities on a large scale, and we are poised to expand microbial engineering to microbiomes in nature, which is of great interest for both basic science and engineering applications. However, we currently lack technologies to genetically manipulate and interrogate diverse microbes and microbial communities. This greatly limits our ability to manipulate microbiome composition and function, and thus our understanding of the individual genetic and microbial factors that drive overall function and emergent ecological principles in microbial communities.
