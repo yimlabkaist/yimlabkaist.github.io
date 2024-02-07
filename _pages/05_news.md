@@ -14,7 +14,7 @@ nav_order: 5
     {%- assign news = site.news | reverse -%} 
     {% for item in news %}
       <tr>
-        <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+        <td scope="row">{{ item.date | date: "%b %-d, %Y" }}</td>
         <td>
           {% if item.inline -%} 
             {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
