@@ -1,13 +1,4 @@
 ---
-layout: page 
-permalink: /news/
-title: news
-order: 5
-nav: true
-social: false
----
-
----
 layout: page
 title: news
 permalink: /news/
