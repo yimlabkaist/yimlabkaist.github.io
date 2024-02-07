@@ -2,9 +2,9 @@
 layout: page
 title: research
 permalink: /research/
-order: 2
 description: towards programmable microbial ecosystems
 nav: true
+nav_order: 2
 display_categories: 
 horizontal: false
 ---
