@@ -17,10 +17,10 @@ nav_order: 4
   Assistant Professor, Biological Sciences, KAIST (2022-)
   <br>sungsunyim@kaist.ac.kr
   <br>
-  <br>Postdoc, Systems Biology, Columbia University (2016-2022) with <a href="https://wanglab.c2b2.columbia.edu">Harris H. Wang</a>
-  <br>Postdoc, Chemical and Biomolecular Engineering, KAIST (2015-2016) with <a href="http://proteineng.kaist.ac.kr/xe/">Ki Jun Jeong</a>
-  <br>Ph.D., Chemical and Biomolecular Engineering, KAIST (2011-2015) with <a href="http://proteineng.kaist.ac.kr/xe/">Ki Jun Jeong</a>
-  <br>B.S., Chemical and Biomolecular Engineering, KAIST (2007-2011)
+  <br>Postdoc, Systems Biology, Columbia University, with <a href="https://wanglab.c2b2.columbia.edu">Harris H. Wang</a>
+  <br>Postdoc, Chemical and Biomolecular Engineering, KAIST, with <a href="http://proteineng.kaist.ac.kr/xe/">Ki Jun Jeong</a>
+  <br>Ph.D., Chemical and Biomolecular Engineering, KAIST, with <a href="http://proteineng.kaist.ac.kr/xe/">Ki Jun Jeong</a>
+  <br>B.S., Chemical and Biomolecular Engineering, KAIST
 </td></tr>
 </table>
 <br>
