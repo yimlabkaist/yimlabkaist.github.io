@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Suyeon Lee and Jimin Ko join our lab as undergraduate researchers. Welcome!
+Soo Yeon Lee and Jimin Ko join our lab as undergraduate researchers. Welcome!
