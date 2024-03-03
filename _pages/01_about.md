@@ -10,7 +10,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<center><img src="../assets/img/dall-e lab image_new.png" width="85%" height="85%"/></center>
+<center><img src="../assets/img/dall-e lab image_new.png" width="100%" height="100%"/></center>
 
 <br>
 Welcome to the Yim Lab in the [Dept. of Biological Sciences at KAIST](https://bio.kaist.ac.kr).
