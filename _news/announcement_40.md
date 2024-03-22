@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Changhee wins the graduate student venture research program! Congrats!
+Changhee wins the graduate student venture research program. Congrats!
