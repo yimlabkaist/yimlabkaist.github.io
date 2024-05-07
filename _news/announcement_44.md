@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Lab receives an NRF grant to tackle biomanufacturing with Sang Yup Lee and Byung-Kwan Cho Labs.
+Lab receives an NRF grant to tackle biomanufacturing with SY Lee and BK Cho labs.
