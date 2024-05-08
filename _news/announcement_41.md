@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Sehyun wins the NRF graduate research fellowship (Master's). Congrats!
+Sehyun wins an NRF graduate research fellowship (Master's). Congrats!
