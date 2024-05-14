@@ -88,12 +88,14 @@ nav_order: 4
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="200">
-  <img src="../assets/img/profile-minhyeokyang.jpg" width="180">
+  <img src="../assets/img/profile-eunseokcho.jpg" width="180">
 </td>
 <td>
-  <p><strong>Min Hyeok Yang</strong></p>
-  Undergraduate Student, Biological Sciences, KAIST (2022.12.-)
-  <br>ringyee@kaist.ac.kr
+  <p><strong>Eunseok Cho</strong></p>
+  Graduate Student, Biological Sciences, KAIST (2024.3.-)
+  <br>eoxhdfud35@kaist.ac.kr
+  <br>
+  <br>B.S., Biological Sciences, KAIST (2022.2.)
 </td></tr>
 </table>
 <br>
@@ -105,36 +107,38 @@ nav_order: 4
 </td>
 <td>
   <p><strong>Sehyun Kim</strong></p>
-  Undergraduate Student, Biological Sciences, KAIST (2023.7.-)
-  <br>Minor in Computer Science
+  Graduate Student, Biological Sciences, KAIST (2024.3.-)
   <br>ccodojunior@kaist.ac.kr
-</td></tr>
+  <br>
+  <br>B.S., Biological Sciences, KAIST (2024.2.)
+  </td></tr>
 </table>
 <br>
 
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="200">
-  <img src="../assets/img/profile-chaeminlee.png" width="180">
+  <img src="../assets/img/profile-hyolimryu.jpg" width="180">
 </td>
 <td>
-  <p><strong>Chaemin Lee</strong></p>
-  Undergraduate Student, Biological Sciences, KAIST (2023.9.-)
-  <br>dlcoalsx@kaist.ac.kr
-</td></tr>
+  <p><strong>Hyolim Ryu</strong></p>
+  Graduate Student, Biological Sciences, KAIST (2024.3.-)
+  <br>zzicgun@kaist.ac.kr
+  <br>
+  <br>B.S., Biological Sciences, Seoul National University (2023.8.)
+  </td></tr>
 </table>
 <br>
 
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="200">
-  <img src="../assets/img/profile-eunseokcho.jpg" width="180">
+  <img src="../assets/img/profile-minhyeokyang.jpg" width="180">
 </td>
 <td>
-  <p><strong>Eunseok Cho</strong></p>
-  Undergraduate Student, Biological Sciences, KAIST (2023.10.-)
-  <br>Minor in Computer Science
-  <br>eoxhdfud981222@gmail.com
+  <p><strong>Min Hyeok Yang</strong></p>
+  Undergraduate Student, Biological Sciences, KAIST (2022.12.-)
+  <br>ringyee@kaist.ac.kr
 </td></tr>
 </table>
 <br>
