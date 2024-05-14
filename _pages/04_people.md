@@ -159,6 +159,19 @@ nav_order: 4
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="200">
+  <img src="../assets/img/profile-jiminko.jpg" width="180">
+</td>
+<td>
+  <p><strong>Jimin Ko</strong></p>
+  Undergraduate Student, Biological Sciences, KAIST (2024.3.-)
+  <br>jimin.ko@kaist.ac.kr
+</td></tr>
+</table>
+<br>
+
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td width="200">
   <img src="../assets/img/profile-ksateam.jpg" width="180">
 </td>
 <td>
@@ -172,7 +185,7 @@ nav_order: 4
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="200">
-  <img src="../assets/img/profile-haileyyim.jpg" width="180">
+  <img src="../assets/img/profile-haileyyim-2.jpg" width="180">
 </td>
 <td>
   <p><strong>Hailey Yim</strong></p>
