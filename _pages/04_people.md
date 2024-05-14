@@ -185,7 +185,7 @@ nav_order: 4
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="200">
-  <img src="../assets/img/profile-haileyyim-2.jpg" width="180">
+  <img src="../assets/img/profile-haileyyim-2.jpeg" width="180">
 </td>
 <td>
   <p><strong>Hailey Yim</strong></p>
