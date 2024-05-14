@@ -115,20 +115,6 @@ nav_order: 4
 </table>
 <br>
 
-<table cellspacing="0" cellpadding="0">
-<tr>
-<td width="200">
-  <img src="../assets/img/profile-hyolimryu.jpg" width="180">
-</td>
-<td>
-  <p><strong>Hyolim Ryu</strong></p>
-  Graduate Student, Biological Sciences, KAIST (2024.3.-)
-  <br>zzicgun@kaist.ac.kr
-  <br>
-  <br>B.S., Biological Sciences, Seoul National University (2023.8.)
-  </td></tr>
-</table>
-<br>
 
 <table cellspacing="0" cellpadding="0">
 <tr>
