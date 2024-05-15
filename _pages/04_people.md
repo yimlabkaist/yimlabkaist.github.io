@@ -172,12 +172,12 @@ nav_order: 4
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="200">
-  <img src="../assets/img/profile-ksateam.jpg" width="180">
+  <img src="../assets/img/profile-jinyullee.jpg" width="180">
 </td>
 <td>
-  <p><strong>Jinyul Lee, Taewoo Yoo, Sihu Park</strong></p>
-  High School Students, Korea Science Academy of KAIST (2023.3.-)
-  <br>22-092@ksa.hs.kr, 22-075@ksa.hs.kr, 22-049@ksa.hs.kr
+  <p><strong>Jinyul Lee</strong></p>
+  High School Student, Korea Science Academy of KAIST (2023.3.-)
+  <br>22-092@ksa.hs.kr
 </td></tr>
 </table>
 <br>
