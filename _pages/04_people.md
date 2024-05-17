@@ -159,12 +159,12 @@ nav_order: 4
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="200">
-  <img src="../assets/img/profile-jiminko.jpg" width="180">
+  <img src="../assets/img/profile-minjoonjeong.jpg" width="180">
 </td>
 <td>
-  <p><strong>Jimin Ko</strong></p>
+  <p><strong>Minjoon Jeong</strong></p>
   Undergraduate Student, Biological Sciences, KAIST (2024.3.-)
-  <br>jimin.ko@kaist.ac.kr
+  <br>davidmj413@kaist.ac.kr
 </td></tr>
 </table>
 <br>
@@ -172,12 +172,12 @@ nav_order: 4
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="200">
-  <img src="../assets/img/profile-minjoonjeong.jpg" width="180">
+  <img src="../assets/img/profile-jiminko.jpg" width="180">
 </td>
 <td>
-  <p><strong>Minjoon Jeong</strong></p>
+  <p><strong>Jimin Ko</strong></p>
   Undergraduate Student, Biological Sciences, KAIST (2024.3.-)
-  <br>davidmj413@kaist.ac.kr
+  <br>jimin.ko@kaist.ac.kr
 </td></tr>
 </table>
 <br>
