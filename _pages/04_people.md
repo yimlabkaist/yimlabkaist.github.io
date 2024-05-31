@@ -118,7 +118,7 @@ nav_order: 4
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="200">
-  <img src="../assets/img/profile-hyolimryu.tif" width="180">
+  <img src="../assets/img/profile-hyolimryu.jpg" width="180">
 </td>
 <td>
   <p><strong>Hyolim Ryu</strong></p>
