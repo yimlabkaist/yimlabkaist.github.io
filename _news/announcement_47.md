@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Sung gives a talk in the Dept. Chemical and Biological Engineering at Seoul National University.
+Sung gives a talk in the Dept. Chemical & Biological Engineering at Seoul National University.
