@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Lab publishes a review on epigenetic approaches in microbiome engineering. Congrats, Changhee!
+Lab publishes a review on epigenetics-based microbiome engineering. Congrats, Changhee!
