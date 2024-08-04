@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Lab receives a new grant from MOTIE to develop artificial genome-based microbial cell factories.
+Lab receives a MOTIE grant to develop artificial genome-based microbial cell factories.
