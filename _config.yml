@@ -11,7 +11,7 @@ footer_text: >
 keywords: null
 lang: en
 icon: null
-url: 'https://yimlabkaist.github.io'
+url: "https://yimlabkaist.github.io"
 baseurl: null
 last_updated: false
 impressum_path: null
@@ -63,14 +63,14 @@ youtube_id: null
 discord_id: null
 zotero_username: null
 wechat_qr: null
-contact_note: ''
+contact_note: ""
 google_analytics: G-VJ2KED3RJ2
 cronitor_analytics: null
 google_site_verification: null
 bing_site_verification: null
 blog_name: al-folio
 blog_description: a simple whitespace theme for academics
-permalink: '/blog/:year/:title/'
+permalink: "/blog/:year/:title/"
 pagination:
   enabled: true
 related_blog_posts:
@@ -91,16 +91,16 @@ giscus:
 disqus_shortname: al-folio
 external_sources:
   - name: medium.com
-    rss_url: 'https://medium.com/@al-folio/feed'
+    rss_url: "https://medium.com/@al-folio/feed"
 collections:
   news:
     defaults:
       layout: post
     output: true
-    permalink: '/news/:path/'
+    permalink: "/news/:path/"
   projects:
     output: true
-    permalink: '/projects/:path/'
+    permalink: "/projects/:path/"
 announcements:
   enabled: true
   scrollable: true
@@ -178,9 +178,9 @@ jekyll-archives:
     tag: archive-tag
     category: archive-category
   permalinks:
-    year: '/blog/:year/'
-    tag: '/blog/tag/:name/'
-    category: '/blog/category/:name/'
+    year: "/blog/:year/"
+    tag: "/blog/tag/:name/"
+    category: "/blog/category/:name/"
 display_tags:
   - formatting
   - images
@@ -207,7 +207,7 @@ scholar:
   join_strings: true
   details_dir: bibliography
   details_link: Details
-  query: '@*'
+  query: "@*"
   group_by: year
   group_order: descending
 enable_publication_badges:
@@ -253,7 +253,7 @@ imagemagick:
     - .tiff
     - .gif
   output_formats:
-    webp: '-quality 85'
+    webp: "-quality 85"
 enable_google_analytics: true
 enable_cronitor_analytics: false
 enable_google_verification: false
