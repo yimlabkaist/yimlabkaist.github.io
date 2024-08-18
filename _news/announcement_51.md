@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Lab receives a MOTIE grant to develop synthetic genome-based microbial cell factories.
+Lab receives a KEIT grant to develop synthetic genome-based microbial cell factories.
