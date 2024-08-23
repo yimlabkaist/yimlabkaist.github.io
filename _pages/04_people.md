@@ -140,7 +140,7 @@ nav_order: 4
   Graduate Student, Engineering Biology, KAIST (2024.9.-)
   <br>pbmi1227@naver.com
   <br>
-  B.S., Systems Biotechnology, Chung-Ang University (2024.8.)
+  <br>B.S., Systems Biotechnology, Chung-Ang University (2024.8.)
 </td></tr>
 </table>
 <br>
