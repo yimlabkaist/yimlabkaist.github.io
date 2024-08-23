@@ -133,12 +133,14 @@ nav_order: 4
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="200">
-  <img src="../assets/img/profile-minhyeokyang.jpg" width="180">
+  <img src="../assets/img/profile-sanghyunchung.jpg" width="180">
 </td>
 <td>
-  <p><strong>Min Hyeok Yang</strong></p>
-  Undergraduate Student, Biological Sciences, KAIST (2022.12.-)
-  <br>ringyee@kaist.ac.kr
+  <p><strong>Sang Hyun Chung</strong></p>
+  Graduate Student, Engineering Biology, KAIST (2024.9.-)
+  <br>pbmi1227@naver.com
+  <br>
+  B.S., Systems Biotechnology, Chung-Ang University (2024.8.)
 </td></tr>
 </table>
 <br>
@@ -146,12 +148,12 @@ nav_order: 4
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="200">
-  <img src="../assets/img/profile-sanghyunchung.jpg" width="180">
+  <img src="../assets/img/profile-minhyeokyang.jpg" width="180">
 </td>
 <td>
-  <p><strong>Sang Hyun Chung</strong></p>
-  Undergraduate Student, Systems Biotechnology, Chung-Ang University (2024.1.-)
-  <br>pbmi1227@naver.com
+  <p><strong>Min Hyeok Yang</strong></p>
+  Undergraduate Student, Biological Sciences, KAIST (2022.12.-)
+  <br>ringyee@kaist.ac.kr
 </td></tr>
 </table>
 <br>
