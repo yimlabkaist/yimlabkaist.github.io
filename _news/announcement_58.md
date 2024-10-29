@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Lab receives a Korea-US collaborative research grant as part of an exceptional research team!
+Lab receives a Korea-US collaborative research grant as part of an exceptional team!
