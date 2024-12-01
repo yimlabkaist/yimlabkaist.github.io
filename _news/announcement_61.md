@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Sung gives a talk in the Dept. Chemical & Biological Engineering at Kyung Hee University.
+Sung gives a talk in the Dept. Chemical Engineering at Kyung Hee University.
