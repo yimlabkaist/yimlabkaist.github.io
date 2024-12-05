@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our Green URP team wins the Minister of Agriculture, Food and Rural Affairs Award! Congrats!
+Our Green URP team wins the Minister of Agriculture, Food and Rural Affairs Award!
