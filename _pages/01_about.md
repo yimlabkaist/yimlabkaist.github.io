@@ -18,3 +18,4 @@ Welcome to the Yim Lab in the [Dept. of Biological Sciences at KAIST](https://bi
 Our lab explores the vast field of microbiology, encompassing vital areas such as human health, food production, and industrial biotechnology. We are dedicated to unraveling the genetic and microbial components influencing microbiome processes, with the ultimate goal of harnessing microorganisms as living sensors, therapeutics, and manufacturing platforms.
 
 To achieve this, we are pioneering engineering design principles for diverse microbes and microbial communities. Our toolkit includes cutting-edge technologies such as high-throughput DNA synthesis and sequencing, multiplex phenotyping, systems and synthetic biology, animal models, and bioinformatics.
+<br>
