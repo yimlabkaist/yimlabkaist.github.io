@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Sung gives a talk at the Asian Synthetic Biology Association Meeting in Singapore!
+Sung gives a talk at the Asian Synthetic Biology Association Meeting in Singapore.
