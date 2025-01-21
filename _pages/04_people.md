@@ -137,7 +137,7 @@ nav_order: 4
 <td>
   <p><strong>Sang Hyun Chung</strong></p>
   Graduate Student, Engineering Biology, KAIST (2024.9.-)
-  <br>pbmi1227@naver.com
+  <br>bio-csh99@kaist.ac.kr
   <br>
   <br>B.S., Systems Biotechnology, Chung-Ang University (2024.8.)
 </td></tr>
