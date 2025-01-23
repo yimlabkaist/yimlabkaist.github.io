@@ -173,32 +173,6 @@ nav_order: 4
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="200">
-  <img src="../assets/img/profile-jiminko.jpg" width="180">
-</td>
-<td>
-  <p><strong>Jimin Ko</strong></p>
-  Undergraduate Student, Biological Sciences, KAIST (2024.3.-)
-  <br>jimin.ko@kaist.ac.kr
-</td></tr>
-</table>
-<br>
-
-<table cellspacing="0" cellpadding="0">
-<tr>
-<td width="200">
-  <img src="../assets/img/profile-jinyullee.jpg" width="180">
-</td>
-<td>
-  <p><strong>Jinyul Lee</strong></p>
-  High School Student, Korea Science Academy of KAIST (2023.3.-)
-  <br>22-092@ksa.hs.kr
-</td></tr>
-</table>
-<br>
-
-<table cellspacing="0" cellpadding="0">
-<tr>
-<td width="200">
   <img src="../assets/img/profile-haileyyim-2.jpeg" width="180">
 </td>
 <td>
