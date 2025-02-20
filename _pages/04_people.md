@@ -147,6 +147,21 @@ nav_order: 4
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="200">
+  <img src="../assets/img/profile-austinthanakritwongsatit.jpg" width="180">
+</td>
+<td>
+  <p><strong>Thanakrit (Austin) Wongsatit</strong></p>
+  Graduate Student, Engineering Biology, KAIST (2025.3.-)
+  <br>thanakrit_w@kaist.ac.kr
+  <br>
+  <br>B.S., Bio and Brain Engineering, KAIST (2024.2.)
+</td></tr>
+</table>
+<br>
+
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td width="200">
   <img src="../assets/img/profile-minhyeokyang.jpg" width="180">
 </td>
 <td>
