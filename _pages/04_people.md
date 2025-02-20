@@ -152,7 +152,7 @@ nav_order: 4
 <td>
   <p><strong>Thanakrit (Austin) Wongsatit</strong></p>
   Graduate Student, Engineering Biology, KAIST (2025.3.-)
-  <br>thanakrit_w@kaist.ac.kr
+  <br>austinwongsatit@kaist.ac.kr
   <br>
   <br>B.S., Bio and Brain Engineering, KAIST (2024.2.)
 </td></tr>
