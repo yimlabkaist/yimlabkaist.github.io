@@ -162,6 +162,22 @@ nav_order: 4
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="200">
+  <img src="../assets/img/profile-sunggyumin.jpg" width="180">
+</td>
+<td>
+  <p><strong>Sunggyu Min</strong></p>
+  Graduate Student, Engineering Biology, KAIST (2025.3.-)
+  <br>msg_kaist@kaist.ac.kr
+  <br>
+  <br>M.S., Public Health, Seoul National University (2023.2.)
+  <br>B.S., Life Science, Korea University (2021.2.)
+</td></tr>
+</table>
+<br>
+
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td width="200">
   <img src="../assets/img/profile-minhyeokyang.jpg" width="180">
 </td>
 <td>
