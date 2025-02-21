@@ -169,7 +169,7 @@ nav_order: 4
   Graduate Student, Engineering Biology, KAIST (2025.3.-)
   <br>msg_kaist@kaist.ac.kr
   <br>
-  <br>M.S., Public Health, Seoul National University (2023.2.)
+  <br>M.S., Public Health, Seoul National University (2023.8.)
   <br>B.S., Life Science, Korea University (2021.2.)
 </td></tr>
 </table>
