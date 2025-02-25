@@ -223,8 +223,8 @@ nav_order: 4
   <p><strong>Hailey Yim</strong></p>
   Junior Volunteer (2020-)
   <br>
-  <br>Prospective Palaeontologist
-  <br>Current Interest: Tyrannosaurus, Brachiosaurus, and Pteranodon to name a few..
+  <br>Aspiring Veterinarian
+  <br>Current Interest: Paw Patrol, Wish Cat, and more
 </td></tr>
 </table>
 <br>
