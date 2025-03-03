@@ -120,7 +120,7 @@ nav_order: 4
   <img src="../assets/img/profile-hyolimryu.jpg" width="180">
 </td>
 <td>
-  <p><strong>Hyolim Ryu</strong></p>
+  <p><strong>Hyorim Ryu</strong></p>
   Graduate Student, Biological Sciences, KAIST (2024.3.-)
   <br>zzicgun@kaist.ac.kr
   <br>
