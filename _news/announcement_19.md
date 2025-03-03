@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Hyolim Ryu, Metta Sodian, and Sehyun Kim join our lab for research internships. Welcome!
+Hyorim Ryu, Metta Sodian, and Sehyun Kim join our lab for research internships. Welcome!
