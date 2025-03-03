@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Hyolim wins an NRF graduate research fellowship (Master’s). Congrats!
+Hyorim wins an NRF graduate research fellowship (Master’s). Congrats!
