@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Eunseok Cho, Sehyun Kim, Hyolim Ryu join our lab as graduate students. Welcome!
+Eunseok Cho, Sehyun Kim, Hyorim Ryu join our lab as graduate students. Welcome!
