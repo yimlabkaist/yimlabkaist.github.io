@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Sunggyu and Austin join our lab as graduate students. Welcome!
+Sunggyu Min and Austin Wongsatit join our lab as graduate students. Welcome!
