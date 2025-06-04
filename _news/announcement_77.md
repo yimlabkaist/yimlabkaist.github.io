@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Seongwon Ok joins our lab as a graduate students. Welcome!
+Seongwon Ok joins our lab as a graduate student. Welcome!
