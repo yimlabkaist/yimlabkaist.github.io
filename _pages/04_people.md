@@ -187,8 +187,24 @@ nav_order: 4
       Graduate Student, Engineering Biology, KAIST (2025.3.-)
       <br />msg_kaist@kaist.ac.kr
       <br />
-      <br />M.S., Public Health, Seoul National University (2023.8.) <br />B.S.,
-      Life Science, Korea University (2021.2.)
+      <br />M.S., Public Health, Seoul National University (2023.8.)
+      <br />B.S., Life Science, Korea University (2021.2.)
+    </td>
+  </tr>
+</table>
+<br />
+
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="200">
+      <img src="../assets/img/profile-seongwonok.jpg" width="180" />
+    </td>
+    <td>
+      <p><strong>Seongwon Ok</strong></p>
+      Graduate Student, Biological Sciences, KAIST (2025.3.-)
+      <br />ok_sw@kaist.ac.kr
+      <br />
+      <br />B.S., Transdisciplinary Studies, DGIST (2025.2.)
     </td>
   </tr>
 </table>
