@@ -241,6 +241,34 @@ nav_order: 4
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td width="200">
+      <img src="../assets/img/profile-jeinoh.jpg" width="180" />
+    </td>
+    <td>
+      <p><strong>Jein Oh</strong></p>
+      Undergraduate Student, Biological Sciences, KAIST (2025.7.-)
+      <br />opoorm03@kaist.ac.kr
+    </td>
+  </tr>
+</table>
+<br />
+
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="200">
+      <img src="../assets/img/profile-dongyunjung.jpeg" width="180" />
+    </td>
+    <td>
+      <p><strong>Dong Yun Jung</strong></p>
+      Undergraduate Student, Computer Science, KAIST (2025.7.-)
+      <br />djung2023@kaist.ac.kr
+    </td>
+  </tr>
+</table>
+<br />
+
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="200">
       <img src="../assets/img/profile-yelenakim.jpg" width="180" />
     </td>
     <td>
