@@ -148,7 +148,7 @@ nav_order: 4
       <img src="../assets/img/profile-sanghyunchung.jpg" width="180" />
     </td>
     <td>
-      <p><strong>Sang Hyun Chung</strong></p>
+      <p><strong>Sanghyun Chung</strong></p>
       Graduate Student, Engineering Biology, KAIST (2024.9.-)
       <br />bio-csh99@kaist.ac.kr
       <br />
