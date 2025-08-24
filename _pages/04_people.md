@@ -17,7 +17,7 @@ nav_order: 4
         <strong>Sung Sun Yim</strong> &ensp;
         <a href="../assets/pdf/CV_SungSunYim_20250307.pdf">cv</a>
       </p>
-      Assistant Professor, Biological Sciences, KAIST (2022-)
+      Assistant Professor, Engineering Biology, KAIST (2022-)
       <br />sungsunyim@kaist.ac.kr
       <br />
       <br />Postdoc, Systems Biology, Columbia University, with
@@ -233,20 +233,6 @@ nav_order: 4
       <p><strong>Minjoon Jeong</strong></p>
       Undergraduate Student, Biological Sciences, KAIST (2024.3.-)
       <br />davidmj413@kaist.ac.kr
-    </td>
-  </tr>
-</table>
-<br />
-
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="200">
-      <img src="../assets/img/profile-jeinoh.jpg" width="180" />
-    </td>
-    <td>
-      <p><strong>Jein Oh</strong></p>
-      Undergraduate Student, Biological Sciences, KAIST (2025.7.-)
-      <br />opoorm03@kaist.ac.kr
     </td>
   </tr>
 </table>
