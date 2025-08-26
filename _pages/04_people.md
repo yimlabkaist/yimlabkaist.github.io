@@ -23,7 +23,7 @@ nav_order: 4
       <br />Postdoc, Systems Biology, Columbia University, with
       <a href="https://wanglab.c2b2.columbia.edu">Harris H. Wang</a>
       <br />Ph.D., Chemical and Biomolecular Engineering, KAIST, with
-      <a href="http://proteineng.kaist.ac.kr/xe/">Ki Jun Jeong</a> <br />B.S.,
+      <a href="https://proteineng.kaist.ac.kr/home">Ki Jun Jeong</a> <br />B.S.,
       Chemical and Biomolecular Engineering, KAIST
     </td>
   </tr>
