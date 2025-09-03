@@ -15,7 +15,7 @@ nav_order: 4
     <td>
       <p>
         <strong>Sung Sun Yim</strong> &ensp;
-        <a href="../assets/pdf/CV_SungSunYim_20250903.pdf">cv</a>
+        <a href="../assets/pdf/CV_SungSunYim_20250904.pdf">cv</a>
       </p>
       Assistant Professor, Engineering Biology, KAIST (2022-)
       <br />sungsunyim@kaist.ac.kr
