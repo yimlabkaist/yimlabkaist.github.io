@@ -13,7 +13,7 @@ social: true # includes social icons at the bottom of the page
 <center><img src="../assets/img/yimlab.gif" width="95%" height="95%"/></center>
 
 <br>
-Welcome to the Yim Lab in the [Dept. of Biological Sciences at KAIST](https://bio.kaist.ac.kr).
+Welcome to the Yim Lab in the Graduate School of Engineering Biology at KAIST.
 
 Our lab explores the vast field of microbiology, encompassing vital areas such as human health, food production, and industrial biotechnology. We are dedicated to unraveling the genetic and microbial factors influencing diverse microbiome processes, with the ultimate goal of harnessing microorganisms as living sensors, therapeutics, and manufacturing platforms.
 
