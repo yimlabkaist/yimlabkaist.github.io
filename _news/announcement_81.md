@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Sung gives a talk at Donghae Kwanghee High School.
+Sung gives a talk at Donghae Gwanghee High School.
