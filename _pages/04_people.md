@@ -255,20 +255,6 @@ nav_order: 4
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td width="200">
-      <img src="../assets/img/profile-yelenakim.jpg" width="180" />
-    </td>
-    <td>
-      <p><strong>Yelena Kim</strong></p>
-      High School Student, Korea Science Academy (2025.3.-)
-      <br />23-206@ksa.hs.kr
-    </td>
-  </tr>
-</table>
-<br />
-
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="200">
       <img src="../assets/img/profile-haileyyim-3.jpeg" width="180" />
     </td>
     <td>
