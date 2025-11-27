@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Sung gives a talk at the Symposium of Young Asian Biological Engineers’ Community in Japan.
+Sung gives a talk at the Symposium of Young Asian Biological Engineers’ Community.
