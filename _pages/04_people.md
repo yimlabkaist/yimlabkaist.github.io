@@ -269,7 +269,7 @@ nav_order: 4
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td width="200">
-      <img src="../assets/img/profile-sihyeongsong.jpeg" width="180" />
+      <img src="../assets/img/profile-sihyeongsong.jpg" width="180" />
     </td>
     <td>
       <p><strong>Sihyeong Song</strong></p>
