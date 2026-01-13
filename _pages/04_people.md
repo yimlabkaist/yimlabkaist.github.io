@@ -255,14 +255,41 @@ nav_order: 4
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td width="200">
+      <img src="../assets/img/profile-seoljikim.jpg" width="180" />
+    </td>
+    <td>
+      <p><strong>Seolji Kim</strong></p>
+      Undergraduate Student, Environmental Science & Ecological Engineering, Korea University (2026.1.-)
+      <br />kimsj0808@korea.ac.kr
+    </td>
+  </tr>
+</table>
+<br />
+
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="200">
+      <img src="../assets/img/profile-sihyeongsong.jpeg" width="180" />
+    </td>
+    <td>
+      <p><strong>Sihyeong Song</strong></p>
+      Undergraduate Student, Biological Sciences, KAIST (2026.1.-)
+      <br />songsh@kaist.ac.kr
+    </td>
+  </tr>
+</table>
+<br />
+
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="200">
       <img src="../assets/img/profile-haileyyim-3.jpeg" width="180" />
     </td>
     <td>
       <p><strong>Hailey Yim</strong></p>
       Junior Volunteer (2020-)
       <br />
-      <br />Aspiring Veterinarian <br />Current Interest: Paw Patrol, Wish Cat,
-      and more
+      <br />Aspiring Veterinarian <br />Current Interest: Pokémon
     </td>
   </tr>
 </table>
