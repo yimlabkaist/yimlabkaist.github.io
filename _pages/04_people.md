@@ -259,7 +259,7 @@ nav_order: 4
     </td>
     <td>
       <p><strong>Seolji Kim</strong></p>
-      Undergraduate Student, Environmental Science & Ecological Engineering, Korea University (2026.1.-)
+      Undergraduate Student, Environmental Sci. & Ecological Eng., Korea Univ. (2026.1.-)
       <br />kimsj0808@korea.ac.kr
     </td>
   </tr>
