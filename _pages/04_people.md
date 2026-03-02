@@ -101,10 +101,11 @@ nav_order: 4
     </td>
     <td>
       <p><strong>Eunseok Cho</strong></p>
-      Graduate Student, Biological Sciences, KAIST (2024.3.-)
+      Graduate Student, Engineering Biology, KAIST (2024.3.-)
       <br />eoxhdfud35@kaist.ac.kr
       <br />
       <br />B.S., Biological Sciences, KAIST (2022.2.)
+      <br />Minor in Computer Science
     </td>
   </tr>
 </table>
@@ -117,10 +118,11 @@ nav_order: 4
     </td>
     <td>
       <p><strong>Sehyun Kim</strong></p>
-      Graduate Student, Biological Sciences, KAIST (2024.3.-)
+      Graduate Student, Engineering Biology, KAIST (2024.3.-)
       <br />ccodojunior@kaist.ac.kr
       <br />
       <br />B.S., Biological Sciences, KAIST (2024.2.)
+      <br />Minor in Computer Science
     </td>
   </tr>
 </table>
@@ -133,7 +135,7 @@ nav_order: 4
     </td>
     <td>
       <p><strong>Hyorim Ryu</strong></p>
-      Graduate Student, Biological Sciences, KAIST (2024.3.-)
+      Graduate Student, Engineering Biology, KAIST (2024.3.-)
       <br />zzicgun@kaist.ac.kr
       <br />
       <br />B.S., Biological Sciences, Seoul National University (2023.8.)
@@ -201,10 +203,26 @@ nav_order: 4
     </td>
     <td>
       <p><strong>Seongwon Ok</strong></p>
-      Graduate Student, Biological Sciences, KAIST (2025.3.-)
+      Graduate Student, Engineering Biology, KAIST (2025.3.-)
       <br />ok_sw@kaist.ac.kr
       <br />
       <br />B.S., Transdisciplinary Studies, DGIST (2025.2.)
+    </td>
+  </tr>
+</table>
+<br />
+
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="200">
+      <img src="../assets/img/profile-minjoonjeong.jpg" width="180" />
+    </td>
+    <td>
+      <p><strong>Minjoon Jeong</strong></p>
+      Graduate Student, Engineering Biology, KAIST (2026.3.-)
+      <br />davidmj413@kaist.ac.kr
+      <br />
+      <br />B.S., Biological Sciences & Computer Science, KAIST (2026.2.)
     </td>
   </tr>
 </table>
@@ -219,20 +237,6 @@ nav_order: 4
       <p><strong>Min Hyeok Yang</strong></p>
       Undergraduate Student, Biological Sciences, KAIST (2022.12.-)
       <br />ringyee@kaist.ac.kr
-    </td>
-  </tr>
-</table>
-<br />
-
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="200">
-      <img src="../assets/img/profile-minjoonjeong.jpg" width="180" />
-    </td>
-    <td>
-      <p><strong>Minjoon Jeong</strong></p>
-      Undergraduate Student, Biological Sciences, KAIST (2024.3.-)
-      <br />davidmj413@kaist.ac.kr
     </td>
   </tr>
 </table>
