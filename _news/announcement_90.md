@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We are recruiting postdocs through the InnoCORE Postdoc Fellows program!
+We are recruiting postdocs through the InnoCORE global postdoc fellowship program!
