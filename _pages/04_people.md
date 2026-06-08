@@ -33,6 +33,23 @@ nav_order: 4
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td width="200">
+      <img src="../assets/img/profile-jaeyunlee.jpg" width="180" />
+    </td>
+    <td>
+      <p><strong>Jae-Yun Lee</strong></p>
+      Postdoctoral Researcher, Engineering Biology, KAIST (2026.6.-)
+      <br />jylee3247@kaist.ac.kr
+      <br />
+      <br />Ph.D., Microbiology, KyungHee University (2025.8.)
+      <br />B.S., Biology, KyungHee University (2016.2.)
+    </td>
+  </tr>
+</table>
+<br />
+
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="200">
       <img src="../assets/img/profile-changheewon.jpg" width="180" />
     </td>
     <td>
