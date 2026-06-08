@@ -40,8 +40,8 @@ nav_order: 4
       Postdoctoral Researcher, Engineering Biology, KAIST (2026.6.-)
       <br />jylee3247@kaist.ac.kr
       <br />
-      <br />Ph.D., Microbiology, KyungHee University (2025.8.)
-      <br />B.S., Biology, KyungHee University (2016.2.)
+      <br />Ph.D., Microbiology, Kyung Hee University (2025.8.)
+      <br />B.S., Biology, Kyung Hee University (2016.2.)
     </td>
   </tr>
 </table>
