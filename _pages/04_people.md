@@ -105,7 +105,6 @@ nav_order: 4
       <p><strong>Geunhui Shin</strong></p>
       Graduate Student, Biological Sciences, KAIST (2023.3.-)
       <br />Hyundai CMK Graduate Research Fellow
-      <br />Inseong Graduate Research Fellow
       <br />geunhui.shin@kaist.ac.kr
       <br />
       <br />B.S., Transdisciplinary Studies, DGIST (2022.8.)
