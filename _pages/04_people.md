@@ -38,6 +38,7 @@ nav_order: 4
     <td>
       <p><strong>Jae-Yun Lee</strong></p>
       Postdoctoral Researcher, Engineering Biology, KAIST (2026.6.-)
+      <br />InnoCORE Postdoctoral Fellow
       <br />jylee3247@kaist.ac.kr
       <br />
       <br />Ph.D., Microbiology, Kyung Hee University (2025.8.)
@@ -103,6 +104,7 @@ nav_order: 4
     <td>
       <p><strong>Geunhui Shin</strong></p>
       Graduate Student, Biological Sciences, KAIST (2023.3.-)
+      <br />Hyundai CMK Graduate Research Fellow
       <br />geunhui.shin@kaist.ac.kr
       <br />
       <br />B.S., Transdisciplinary Studies, DGIST (2022.8.)
@@ -136,6 +138,7 @@ nav_order: 4
     <td>
       <p><strong>Sehyun Kim</strong></p>
       Graduate Student, Engineering Biology, KAIST (2024.3.-)
+      <br />NRF Graduate Research Fellow
       <br />ccodojunior@kaist.ac.kr
       <br />
       <br />B.S., Biological Sciences, KAIST (2024.2.)
@@ -153,6 +156,7 @@ nav_order: 4
     <td>
       <p><strong>Hyorim Ryu</strong></p>
       Graduate Student, Engineering Biology, KAIST (2024.3.-)
+      <br />NRF Graduate Research Fellow
       <br />zzicgun@kaist.ac.kr
       <br />
       <br />B.S., Biological Sciences, Seoul National University (2023.8.)
@@ -188,6 +192,7 @@ nav_order: 4
     <td>
       <p><strong>Thanakrit (Austin) Wongsatit</strong></p>
       Graduate Student, Engineering Biology, KAIST (2025.3.-)
+      <br />POSCO Graduate Research Fellow
       <br />austinwongsatit@kaist.ac.kr
       <br />
       <br />B.S., Bio and Brain Engineering, KAIST (2024.2.)
