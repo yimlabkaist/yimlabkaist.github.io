@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Sung gives a talk at the 2026 International Biotechnology Symposium and Exhibition in Kobe, Japan.
+Sung gives a talk at the 2026 International Biotechnology Symposium in Kobe, Japan.
