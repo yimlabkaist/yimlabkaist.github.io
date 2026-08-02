@@ -207,7 +207,7 @@ nav_order: 4
       <img src="../assets/img/profile-sunggyumin.jpg" width="180" />
     </td>
     <td>
-      <p><strong>Sunggyu Min</strong></p>
+      <p><strong>Sung-Gyu Min</strong></p>
       Graduate Student, Engineering Biology, KAIST (2025.3.-)
       <br />msg_kaist@kaist.ac.kr
       <br />
