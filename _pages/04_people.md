@@ -253,6 +253,22 @@ nav_order: 4
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td width="200">
+      <img src="../assets/img/profile-seoljikim.jpg" width="180" />
+    </td>
+    <td>
+      <p><strong>Seolji Kim</strong></p>
+      Graduate Student, Engineering Biology, KAIST (2026.9.-)
+      <br />kimsj0808@korea.ac.kr
+      <br />
+      <br />B.S., Environ. Sci. & Ecol. Eng., Korea Univ. (2026.2.)
+    </td>
+  </tr>
+</table>
+<br />
+
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="200">
       <img src="../assets/img/profile-minhyeokyang.jpg" width="180" />
     </td>
     <td>
@@ -273,20 +289,6 @@ nav_order: 4
       <p><strong>Dong Yun Jung</strong></p>
       Undergraduate Student, Computer Science, KAIST (2025.7.-)
       <br />djung2023@kaist.ac.kr
-    </td>
-  </tr>
-</table>
-<br />
-
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="200">
-      <img src="../assets/img/profile-seoljikim.jpg" width="180" />
-    </td>
-    <td>
-      <p><strong>Seolji Kim</strong></p>
-      Undergraduate Student, Environ. Sci. & Ecol. Eng., Korea Univ. (2026.1.-)
-      <br />kimsj0808@korea.ac.kr
     </td>
   </tr>
 </table>
